@@ -1,0 +1,2 @@
+The project aims to convert PDF documents into PNG images efficiently using .NET technology. It leverages DocNET.Core and SkiaSharp NuGet packages to handle document processing and rendering, ensuring compatibility across different document types and styles while maintaining quality and performance. This solution is designed for developers integrating with existing codebases, providing a robust tool for document-to-image conversion in various applications.
+
